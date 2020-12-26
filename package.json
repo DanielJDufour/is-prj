@@ -1,0 +1,30 @@
+{
+  "name": "is-prj",
+  "version": "0.0.0",
+  "description": "Identify a PRJ File in a Variety of In-Memory Objects, including ArrayBuffer, Buffer, DataView, and Uint8Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/is-prj.git"
+  },
+  "keywords": [
+    "geo",
+    "geospatial",
+    "prj",
+    "projection",
+    "project",
+    "wkt"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/is-prj/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/is-prj#readme",
+  "dependencies": {
+    "has-strings": "0.0.1"
+  }
+}
