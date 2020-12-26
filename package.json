@@ -1,6 +1,6 @@
 {
   "name": "is-prj",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Identify a PRJ File in a Variety of In-Memory Objects, including ArrayBuffer, Buffer, DataView, and Uint8Array",
   "main": "is-prj.js",
   "files": [
